@@ -3,9 +3,5 @@
   "type": "civicrm-ext",
   "require": {
     "xeroapi/xero-php-oauth2": "^10.0"
-  },
-  "replace": {
-    "guzzlehttp/guzzle": "^6.3 || ^7.3",
-    "guzzlehttp/psr7": "^1.8.5"
   }
 }
